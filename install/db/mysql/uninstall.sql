@@ -1,0 +1,1 @@
+DROP TABLE b_verifier_task_detail, b_verifier_task;
